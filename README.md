@@ -1,8 +1,12 @@
-### Hey! I'm Ash
+### Hey! I'm Ash 👋🏼
 
-I'm a full-stack developer with a passion for tech. 
+🚀 Passionate Full Stack Web Developer | Remote from the UK 🇬🇧 | Lead Developer at Concoction, Auckland 🌏 - Crafting digital experiences and solutions with expertise in React Native, React, Typescript, Javascript, HTML, CSS and PHP.
 
-## Languages/Frameworks
+Dedicated to transforming innovative ideas into reality, optimizing performance, and leaving a lasting impact. 💡🚀
+
+#### Check out my stack
+
+##### Languages/Frameworks
 <p float="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -15,18 +19,18 @@ I'm a full-stack developer with a passion for tech.
   <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" />
 </p>
 
-## Databases
+##### Databases
 <p float="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## Cloud
+#### Cloud
 <p float="left">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
-## Design
+#### Design
 <p float="left">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
