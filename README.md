@@ -2,6 +2,8 @@
 
 🚀 Passionate Full Stack Web Developer | Remote from the UK 🇬🇧 | Lead Developer at Concoction, Auckland 🌏 - Crafting digital experiences and solutions with expertise in React Native, React, Typescript, Javascript, HTML, CSS and PHP.
 
+👀 Currently looking for new opportunities in London, UK (Hybrid or Remote), either Full Stack or Frontend.
+
 Dedicated to transforming innovative ideas into reality, optimizing performance, and leaving a lasting impact. 💡🚀
 
 #### Check out my stack
