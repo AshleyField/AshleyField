@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="{(https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)}" />
+<img src="{https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white}" />
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-master-ashleys-projects-9cc16d51.vercel.app/api?username=ashleyfield&hide=stars,issues,prs&show=prs_merged&hide_rank=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
