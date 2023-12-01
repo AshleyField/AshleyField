@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-master-ashleys-projects-9cc16d51.vercel.app/api?username=ashleyfield&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-master-ashleys-projects-9cc16d51.vercel.app/api/top-langs/?username=ashleyfield)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-ashleys-projects-9cc16d51.vercel.app/api/top-langs/?username=ashleyfield&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AshleyField/AshleyField** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
