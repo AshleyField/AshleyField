@@ -4,8 +4,6 @@
 
 Dedicated to transforming innovative ideas into reality, optimizing performance, and leaving a lasting impact. 💡🚀
 
-#### ‼️ Currently looking for new opportunities in London, UK (Hybrid or Remote), either Full Stack or Frontend.
-
 ---
 
 #### Check out my stack
