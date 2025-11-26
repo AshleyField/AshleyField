@@ -43,7 +43,7 @@ Dedicated to transforming innovative ideas into reality, optimizing performance,
 ##### Testing
 <p float="left">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/php_unit-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/php_unit-red?style=for-the-badge&logo=php&logoColor=ffffff" />
 </p>
 
 
