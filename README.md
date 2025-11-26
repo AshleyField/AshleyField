@@ -2,7 +2,9 @@
 
 🚀 Passionate Full Stack Web Developer
 
-Dedicated to transforming innovative ideas into reality, optimizing performance, and leaving a lasting impact.
+I transform ideas into reliable, accessible, and high-performance software, engineered from scratch with security at the core. I take ownership of features end-to-end, optimise performance, and build systems that scale with impact.
+
+If you love coffee, checkout my socials - [Halfashot](https://www.instagram.com/halfashot)
 
 ---
 
